@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi there, I'm <a href="https://dhusser.github.io/cv/" target="_blank">Denis</a> 
+Hi there, I'm <a href="https://dhusser.ru" target="_blank">Denis</a> 
 </h1>
 <h2 align="center">
 Fullstack Web developer from Russia
