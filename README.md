@@ -11,11 +11,11 @@
     <img src="https://img.shields.io/badge/Leetcode-FFA116?style=for-the-badge&logo=Leetcode&logoColor=white"
       alt="Leetcode Badge" />
   </a>
-  <a href="tg://resolve?domain=dhusser">
+  <a href="https://t.me/dhusser">
     <img src="https://img.shields.io/badge/Telegram-239AD6?style=for-the-badge&logo=telegram&logoColor=white"
       alt="Telegram Badge" />
   </a>
-  <a href="https://discordapp.com/users/872181479680122892/">
+  <a href="https://discordapp.com/users/967772176994402305/">
     <img src="https://img.shields.io/badge/Discord-5662F6?style=for-the-badge&logo=Discord&logoColor=white"
       alt="Discord Badge" />
   </a>
@@ -80,6 +80,28 @@
 
   </div>
   </div>
+
+  <table align="center">
+
+   <!-- <tbody>
+      <tr>
+        <td align="center">
+          <div><img
+              src="" />
+          </div>
+          <p align="center"><strong><a href="">Source</a> / <a
+                href="">Deploy</a></strong></p>
+        </td>
+        <td align="left">
+          <h3></h3>
+          <p><strong>Description: </strong></p>
+          <p><strong>Features: </strong></p>
+          <p><strong>Stack: </strong></p>
+        </td>
+      </tr>
+    </tbody>
+
+  </table> -->
 
   <div id="education">
     <h2 align="left">Courses</h2>
