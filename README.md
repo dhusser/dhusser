@@ -3,7 +3,7 @@
 </div>
 
 <div id="header" align="center">
-  <a href="https://www.codewars.com/users/rsschool_42c5f954c05a1d94">
+  <a href="https://www.codewars.com/users/dhusser">
     <img src="https://img.shields.io/badge/Codewars-B92F21?style=for-the-badge&logo=Codewars&logoColor=white"
       alt="Codewars Badge" />
   </a>
@@ -114,10 +114,10 @@
 
   <div id="stats" align="center">
     <h2 align="left">And some statistics...</h2>
-    <a href="https://www.codewars.com/users/rsschool_42c5f954c05a1d94"><img
-        src="https://www.codewars.com/users/rsschool_42c5f954c05a1d94/badges/large"></a><br>
+    <a href="https://www.codewars.com/users/dhusser"><img
+        src="https://www.codewars.com/users/dhusser/badges/large"></a><br>
     <a href="https://leetcode.com/dhusser/"><img
-        src="https://leetcode-stats-six.vercel.app/api?username=dhusser&theme=dark"></a><br>
+        src="https://leetcode-stats.vercel.app/api?username=dhusser&theme=dark"></a><br>
     <img
       src="https://github-readme-streak-stats.herokuapp.com?user=dhusser&theme=material&hide_border=true&border_radius=8&card_width=400"><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhusser"><br>
