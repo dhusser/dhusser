@@ -119,8 +119,7 @@
     <a href="https://leetcode.com/dhusser/"><img
         src="https://leetcard.jacoblin.cool/dhusser?theme=dark&font=Roboto"></a><br>
     <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=dhusser&theme=material&hide_border=true&border_radius=8&card_width=400"><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhusser"><br>
+        src="https://streak-stats.demolab.com?user=dhusser&theme=material&hide_border=true&border_radius=8&card_width=400"><br>
   </div>
 
   <div>
