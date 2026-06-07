@@ -107,8 +107,8 @@
     <h2 align="left">Courses</h2>
     <ul>
       <li>Clean Code EPAM</li>
-      <li>JavaScript Algorithms and Data Structures(<b>in progress</b>)</li>
-      <li>Rolling Scopes School JavaScript/Front-end(<b>in progress</b>)</li>
+      <li>JavaScript Algorithms and Data Structures</li>
+      <li>Rolling Scopes School JavaScript/Front-end</li>
     </ul>
   </div>
 
