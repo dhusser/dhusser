@@ -74,28 +74,6 @@
   </div>
   </div>
 
-  <table align="center">
-
-   <!-- <tbody>
-      <tr>
-        <td align="center">
-          <div><img
-              src="" />
-          </div>
-          <p align="center"><strong><a href="">Source</a> / <a
-                href="">Deploy</a></strong></p>
-        </td>
-        <td align="left">
-          <h3></h3>
-          <p><strong>Description: </strong></p>
-          <p><strong>Features: </strong></p>
-          <p><strong>Stack: </strong></p>
-        </td>
-      </tr>
-    </tbody>
-
-  </table> -->
-
   <div id="education">
     <h2 align="left">Courses</h2>
     <ul>
