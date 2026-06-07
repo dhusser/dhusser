@@ -35,7 +35,7 @@
 
 <h1 align="center">&#128075; Hi there, I'm <a href="https://dhusser.ru" target="_blank">Denis</a></h1>
 
-<h2 align="center">Fullstack Web developer from Russia</h2>
+<h2 align="center">Fullstack Web developer</h2>
 
 
 <div id="main">
