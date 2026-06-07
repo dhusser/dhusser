@@ -115,9 +115,9 @@
   <div id="stats" align="center">
     <h2 align="left">And some statistics...</h2>
     <a href="https://www.codewars.com/users/dhusser"><img
-        src="https://www.codewars.com/users/dhusser/badges/large"></a><br>
+        src="https://www.codewars.com/users/dhusser/badges/large"></a>
     <a href="https://leetcode.com/dhusser/"><img
-        src="https://leetcode-stats.vercel.app/api?username=dhusser&theme=dark"></a><br>
+        src="https://leetcard.jacoblin.cool/dhusser?theme=dark&font=Roboto"></a><br>
     <img
       src="https://github-readme-streak-stats.herokuapp.com?user=dhusser&theme=material&hide_border=true&border_radius=8&card_width=400"><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhusser"><br>
