@@ -106,18 +106,28 @@
   </div>
 
   <div id="stats" align="center">
-    <h2 align="left">And some statistics...</h2>
-    <a href="https://www.codewars.com/users/dhusser"><img
-        src="https://www.codewars.com/users/dhusser/badges/large"></a>
-    <a href="https://leetcode.com/dhusser/"><img
-        src="https://leetcard.jacoblin.cool/dhusser?theme=dark&font=Roboto"></a><br>
-    <img
-        src="https://streak-stats.demolab.com?user=dhusser&theme=material&hide_border=true&border_radius=8&card_width=400"><br>
+  <h2 align="left">And some statistics...</h2>
+
+    <p align="center">
+      <a href="https://www.codewars.com/users/dhusser">
+        <img src="https://www.codewars.com/users/dhusser/badges/large" alt="Codewars Badge">
+      </a>
+    </p>
+
+    <p align="center">
+      <a href="https://leetcode.com/dhusser/">
+        <img src="https://leetcard.jacoblin.cool/dhusser?theme=dark&font=Roboto" alt="LeetCode Stats">
+      </a>
+    </p>
+
+    <p align="center">
+      <img src="https://streak-stats.demolab.com?user=dhusser&theme=material&hide_border=true&border_radius=8&card_width=400" alt="GitHub Streak Stats">
+    </p>
   </div>
 
   <div>
-  <h2 align="left">P.S.</h2>
-  <p>I'm not a Star Wars fan ;) But there is a deeper philosophy hidden here.</p>
+    <h2 align="left">P.S.</h2>
+    <p>I'm not a Star Wars fan ;) But there is a deeper philosophy hidden here.</p>
   </div>
 
 </div>
