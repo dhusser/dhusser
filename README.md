@@ -11,6 +11,3 @@ Ex-DevOps &amp; full-stack (Python, TypeScript, Django, PostgreSQL, Docker).</p>
 
 <p align="center">This is where my projects live: production Django platforms, developer tooling, and macOS apps (coming soon).<br>
 For the full background, see <a href="https://www.linkedin.com/in/dgusser/">LinkedIn</a>.</p>
-
-<h2 align="left">P.S.</h2>
-<p>I'm not a Star Wars fan ;) But there is a deeper philosophy hidden here.</p>
